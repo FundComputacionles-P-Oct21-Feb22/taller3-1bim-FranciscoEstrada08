@@ -1,0 +1,8 @@
+Algoritmo-2
+1.Inicio
+2.Se pide el gasto del primer hijo
+3.Se pide el gasto del segundo hijo
+4.Se pide el gato del tercer hijo
+5.Se suma los gatos totales de los tres hijos
+6.Se presenta el total de gasto de los hijos del padre de familia
+7.Fin

@@ -1,0 +1,9 @@
+Algoritmo-3
+Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de un número ingresado por el usuario; solo en el caso que el valor del número esté entre 2 y 6.
+1.Inicio
+2.Se pregunta el número del que desea que se muestra la tabla
+3.Se verifica si el numero esta entre 2 y 6, caso contrario presentar erros
+3.Si el número es valido se procede a hacer los calculos
+4.Se multiplica el numero dado por el usuario por los numeros del 1 al 12
+5.Se muestra en pantalla el resultado de todas las multiplicaciones
+6.Fin
